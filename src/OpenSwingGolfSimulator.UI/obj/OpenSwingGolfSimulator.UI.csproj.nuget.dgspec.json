@@ -1,0 +1,698 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.UI\\OpenSwingGolfSimulator.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj",
+        "projectName": "OpenSwingGolfSimulator.Domain",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.45, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\OpenSwingGolfSimulator.Hardware.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\OpenSwingGolfSimulator.Hardware.csproj",
+        "projectName": "OpenSwingGolfSimulator.Hardware",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\OpenSwingGolfSimulator.Hardware.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj"
+              },
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\OpenSwingGolfSimulator.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\OpenSwingGolfSimulator.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.36.2, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.45, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\OpenSwingGolfSimulator.Physics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\OpenSwingGolfSimulator.Physics.csproj",
+        "projectName": "OpenSwingGolfSimulator.Physics",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\OpenSwingGolfSimulator.Physics.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj"
+              },
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.36.2, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj",
+        "projectName": "OpenSwingGolfSimulator.Shared",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.36.2, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.45, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.UI\\OpenSwingGolfSimulator.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.UI\\OpenSwingGolfSimulator.UI.csproj",
+        "projectName": "OpenSwingGolfSimulator.UI",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.UI\\OpenSwingGolfSimulator.UI.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows10.0.22621.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows10.0.22621.0": {
+            "framework": "net9.0-windows10.0.22621",
+            "targetAlias": "net9.0-windows10.0.22621.0",
+            "projectReferences": {
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Domain\\OpenSwingGolfSimulator.Domain.csproj"
+              },
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\OpenSwingGolfSimulator.Hardware.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Hardware\\OpenSwingGolfSimulator.Hardware.csproj"
+              },
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\OpenSwingGolfSimulator.Physics.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Physics\\OpenSwingGolfSimulator.Physics.csproj"
+              },
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0-windows10.0.22621.0": {
+          "framework": "net9.0-windows10.0.22621",
+          "targetAlias": "net9.0-windows10.0.22621.0",
+          "dependencies": {
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.45, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Microsoft.WindowsAppSDK": {
+              "target": "Package",
+              "version": "[2.5.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-arm64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-arm64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x86",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.57, 10.0.22621.57]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-arm64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+              "version": "[9.0.20, 9.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref.Windows": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\OpenSwingGolfSimulator.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\OpenSwingGolfSimulator.Utilities.csproj",
+        "projectName": "OpenSwingGolfSimulator.Utilities",
+        "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\OpenSwingGolfSimulator.Utilities.csproj",
+        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "framework": "net9.0",
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj": {
+                "projectPath": "C:\\Users\\jason\\git-repos\\OpenSwingGolfSimulator\\src\\OpenSwingGolfSimulator.Shared\\OpenSwingGolfSimulator.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net9.0": {
+          "framework": "net9.0",
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.84.0, )"
+            },
+            "InTheHand.BluetoothLE": {
+              "target": "Package",
+              "version": "[4.0.45, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.21, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "log4net.Ext.Json": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

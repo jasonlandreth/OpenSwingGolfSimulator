@@ -1,0 +1,15 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\bin\Debug\net9.0\OpenSwingGolfSimulator.AI.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\bin\Debug\net9.0\OpenSwingGolfSimulator.AI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\bin\Debug\net9.0\OpenSwingGolfSimulator.AI.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\refint\OpenSwingGolfSimulator.AI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\ref\OpenSwingGolfSimulator.AI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwin.1FA9070E.Up2Date
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.Properties.Resources.resources
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.AI\obj\Debug\net9.0\OpenSwingGolfSimulator.AI.csproj.GenerateResource.cache

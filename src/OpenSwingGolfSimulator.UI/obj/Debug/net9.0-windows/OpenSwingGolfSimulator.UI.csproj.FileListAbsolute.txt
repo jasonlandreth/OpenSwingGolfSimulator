@@ -1,0 +1,15 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\refint\OpenSwingGolfSimulator.UI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\ref\OpenSwingGolfSimulator.UI.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwin.ADF59273.Up2Date
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.MasinDashBoard.resources
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.UI\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.UI.csproj.GenerateResource.cache

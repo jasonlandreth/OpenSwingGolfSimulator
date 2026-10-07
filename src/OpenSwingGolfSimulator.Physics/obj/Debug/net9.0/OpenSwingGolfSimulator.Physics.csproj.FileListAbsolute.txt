@@ -1,0 +1,17 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Physics.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Physics.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Physics.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\refint\OpenSwingGolfSimulator.Physics.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwingGolfSimulator.Physics.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\ref\OpenSwingGolfSimulator.Physics.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\obj\Debug\net9.0\OpenSwin.A6C812E5.Up2Date
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Domain.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Shared.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Domain.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Physics\bin\Debug\net9.0\OpenSwingGolfSimulator.Shared.pdb

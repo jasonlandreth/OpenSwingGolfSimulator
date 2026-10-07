@@ -1,0 +1,13 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\bin\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\refint\OpenSwingGolfSimulator.VideoAnaylsis.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwingGolfSimulator.VideoAnaylsis.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\ref\OpenSwingGolfSimulator.VideoAnaylsis.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.VideoAnaylsis\obj\Debug\net9.0-windows\OpenSwin.EE71DE4B.Up2Date

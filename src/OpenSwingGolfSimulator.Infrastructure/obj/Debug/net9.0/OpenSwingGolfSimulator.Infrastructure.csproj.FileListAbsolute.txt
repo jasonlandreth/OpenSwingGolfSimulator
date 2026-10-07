@@ -1,0 +1,13 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\bin\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\bin\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\bin\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\refint\OpenSwingGolfSimulator.Infrastructure.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwingGolfSimulator.Infrastructure.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\ref\OpenSwingGolfSimulator.Infrastructure.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Infrastructure\obj\Debug\net9.0\OpenSwin.BCAB0A90.Up2Date

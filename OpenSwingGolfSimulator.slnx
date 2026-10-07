@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="src/OpenSwingGolfSimulator/OpenSwingGolfSimulator.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.AI/OpenSwingGolfSimulator.AI.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Analytics/OpenSwingGolfSimulator.Analytics.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Core/OpenSwingGolfSimulator.Core.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Database/OpenSwingGolfSimulator.Database.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Domain/OpenSwingGolfSimulator.Domain.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Hardware/OpenSwingGolfSimulator.Hardware.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Infrastructure/OpenSwingGolfSimulator.Infrastructure.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Physics/OpenSwingGolfSimulator.Physics.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Shared/OpenSwingGolfSimulator.Shared.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Studio/OpenSwingGolfSimulator.Studio.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.UI/OpenSwingGolfSimulator.UI.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.Utilities/OpenSwingGolfSimulator.Utilities.csproj" />
+  <Project Path="src/OpenSwingGolfSimulator.VideoAnaylsis/OpenSwingGolfSimulator.VideoAnaylsis.csproj" />
+</Solution>

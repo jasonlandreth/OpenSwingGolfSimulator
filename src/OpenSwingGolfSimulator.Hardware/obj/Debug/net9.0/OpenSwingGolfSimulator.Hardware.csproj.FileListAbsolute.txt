@@ -1,0 +1,17 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Hardware.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Hardware.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Hardware.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\refint\OpenSwingGolfSimulator.Hardware.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwingGolfSimulator.Hardware.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\ref\OpenSwingGolfSimulator.Hardware.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\obj\Debug\net9.0\OpenSwin.6EEC11FA.Up2Date
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Shared.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Utilities.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Shared.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Hardware\bin\Debug\net9.0\OpenSwingGolfSimulator.Utilities.pdb

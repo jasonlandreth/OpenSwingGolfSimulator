@@ -1,0 +1,13 @@
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\bin\Debug\net9.0\OpenSwingGolfSimulator.Database.deps.json
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\bin\Debug\net9.0\OpenSwingGolfSimulator.Database.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\bin\Debug\net9.0\OpenSwingGolfSimulator.Database.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.csproj.AssemblyReference.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.AssemblyInfoInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.AssemblyInfo.cs
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.csproj.CoreCompileInputs.cache
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\refint\OpenSwingGolfSimulator.Database.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwingGolfSimulator.Database.pdb
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\ref\OpenSwingGolfSimulator.Database.dll
+C:\Users\jason\git-repos\OpenSwingGolfSimulator\src\OpenSwingGolfSimulator.Database\obj\Debug\net9.0\OpenSwin.C0E9DC95.Up2Date
